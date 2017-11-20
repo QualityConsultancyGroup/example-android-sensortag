@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorTag</string>
+    <string name="title_start">Start</string>
+    <string name="title_stop">Stop</string>
+    <string name="title_reserve">Reserve</string>
+
+    <string name="ble_not_supported">ble_not_supported</string>
+</resources>
